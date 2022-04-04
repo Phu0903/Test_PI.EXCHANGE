@@ -7,9 +7,9 @@ else export output
 - pip install unitest
 - and run cmd "python -m unittest send_email.TestFirst"
 # Run: 
-Case 1: If have "python": 
+  # Case 1: If have "python": 
 - Run cmd "python .\send_email.py"
-Case 2: If don't have "python" and on "Windows"
+  # Case 2: If don't have "python" and on "Windows"
 - Open folder "dist"
 - Run cmd "send_email.exe"
 
